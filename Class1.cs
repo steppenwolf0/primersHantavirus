@@ -9,11 +9,11 @@ namespace WindowsFormsApp1
     
     public class PrimerUtils
     {
-        // ✅ Complement mapping
+        //  Complement mapping
         static readonly Dictionary<char, char> compMap = new Dictionary<char, char>
         {
             {'A','T'}, {'T','A'}, {'G','C'}, {'C','G'},
-            {'N','N'}   // ✅ add this
+            {'N','N'}   //  add this
         };
 
         static string ReverseComplement(string seq)
@@ -27,7 +27,7 @@ namespace WindowsFormsApp1
         }
 
 
-        // ✅ Tm computation
+        //  Tm computation
         public static double ComputeTm(string seq,
             double dna_nM = 50.0,
             double mv = 50.0,
