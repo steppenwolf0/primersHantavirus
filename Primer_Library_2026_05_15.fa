@@ -1,0 +1,14 @@
+>PP_006WBLH.1_S_F
+GCGTTGTATGTTGCAGGGGTA
+>PP_006WBLH.1_S_IN
+TGCGTAACACCATCATGGCATCCA
+>PP_006WBLH.1_S_R
+CTCTTCTGCAGTCCCCACAG/CTGTGGGGACTGCAGAAGAG
+
+ Left Primer 1: GCGTTGTATGTTGCAGGGGTA	
+Start: 982 	Length: 21 bp 	Tm: 60.9 C 	B: 96.805 % 	GC: 52.4 % 	Any: 0.0 	End: 0.0 	TB: 8.0 	HP: 0.0 	3' Stab: 3.7 	Penalty: 1.947
+Internal Oligo 1: TGCGTAACACCATCATGGCATCCA
+Start: 1040 	Length: 24 bp 	Tm: 59.0 C 	B: 95.494 % 	GC: 50.0 % 	Any: 0.0 	End: 0.0 	TB: 	HP: 37.8 	3' Stab: NaN 	Penalty: 5.007
+Right Primer 1: CTCTTCTGCAGTCCCCACAG
+Start: 1086 	Length: 20 bp 	Tm: 60.0 C 	B: 94.835 % 	GC: 60.0 % 	Any: 14.7 	End: 0.2 	TB: 7.0 	HP: 0.0 	3' Stab: 3.7 	Penalty: 0.037
+Pair:    Product Size:   105 bp 	Tm: 82.7 C 		Any: 0.0 	End: 0.0 	TB: 15.0 		Penalty: 1.983

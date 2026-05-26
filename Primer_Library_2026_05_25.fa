@@ -1,0 +1,22 @@
+>PP_006WBLH.1_S_F
+GCGTTGTATGTTGCAGGGGTA
+>PP_006WBLH.1_S_IN
+CTTCAGGACATGCGTAACACCATCA
+>PP_006WBLH.1_S_R
+TCCCCACAGATTTGGATGCC
+
+ Left Primer 1:
+Start: 982 	Length: 21 bp 	Tm: 60.9 C 	B: 96.805 % 	GC: 52.4 % 	Any: 0.0 	End: 0.0 	TB: 8.0 	HP: 0.0 	3' Stab: 3.7 	Penalty: 1.947
+ Internal Oligo 1:
+ Start: 1030 	Length: 25 bp 	Tm: 57.4 C 	B: 92.167 % 	GC: 48.0 % 	Any: 0.0 	End: 0.0 	TB: 	HP: 0.0 	3' Stab: NaN 	Penalty: 7.634
+  Right Primer 1:
+  Start: 1075 	Length: 20 bp 	Tm: 60.0 C 	B: 94.499 % 	GC: 55.0 % 	Any: 0.0 	End: 0.0 	TB: 7.0 	HP: 39.2 	3' Stab: 4.4 	Penalty: 0.033
+Hairpin Secondary Structure:
+
+   Tm: 39.2°C  dG: -140 cal/mol  dH: -19500 cal/mol  dS: -62 cal/mol*K
+     5' TCCCCACAG┐
+           |||   │
+   3' CCGTAGGTTTA┘
+   
+   Pair:    Product Size:   94 bp 	Tm: 81.7 C 		Any: 0.0 	End: 0.4 	TB: 15.0 		Penalty: 1.980
+   

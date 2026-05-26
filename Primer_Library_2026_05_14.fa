@@ -1,0 +1,20 @@
+>Primer_F
+GCGTTGTATGTTGCAGGGGTA
+>Primer_IN
+AGGGCGGTTAAGGGGTCAGTT
+>Primer_R
+CCACCTCCCATTTCCCGTAG/CTACGGGAAATGGGAGGTGG
+
+
+Left Primer 1:
+GCGTTGTATGTTGCAGGGGTA
+Start: 982 	Length: 21 bp 	Tm: 60.9 C 	B: 96.805 % 	GC: 52.4 % 	Any: 0.0 	End: 0.0 	TB: 8.0 	HP: 0.0 	3' Stab: 3.7 	Penalty: 1.947
+Internal Oligo 1:
+AGGGCGGTTAAGGGGTCAGTT
+Start: 1420 	Length: 21 bp 	Tm: 57.4 C 	B: 88.407 % 	GC: 57.1 % 	Any: 0.0 	End: 0.0 	TB: 	HP: 0.0 	3' Stab: NaN 	Penalty: 3.576
+Right Primer 1: CCACCTCCCATTTCCCGTAG
+Start: 1530
+Start: 1530 	Length: 20 bp 	Tm: 59.8 C 	B: 94.301 % 	GC: 60.0 % 	Any: 0.0 	End: 0.0 	TB: 9.0 	HP: 0.0 	3' Stab: 3.5 	Penalty: 0.180
+Pair:    Product Size:   549 bp 	Tm: 85.0 C 		Any: 0.0 	End: 0.0 	TB: 17.0 		Penalty: 2.127
+
+
